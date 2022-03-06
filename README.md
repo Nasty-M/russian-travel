@@ -13,3 +13,5 @@
 * Добавить сайту интерактивности с помощью Java-Script
 * Разработать англоязычную версию сайта
 
+## Ссылка на проект
+https://nasty-m.github.io/russian-travel/index.html
